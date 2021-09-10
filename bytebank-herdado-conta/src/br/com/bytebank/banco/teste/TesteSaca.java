@@ -1,4 +1,6 @@
-package teste;
+package br.com.bytebank.banco.teste;
+
+import br.com.bytebank.banco.teste.*;
 
 //Full Qualifie Name => FQN
 //O verdadeiro nome qui da classe seria "modelo.TestaSaca"
@@ -6,7 +8,7 @@ public class TesteSaca {
 
 	public static void main(String[] args) {
 
-		modelo.Conta conta = new modelo.ContaCorrente(123, 321);
+		Conta conta = new ContaCorrente(123, 321);
 		
 		conta.deposita(200.0);
 		conta.saca(190.0);
