@@ -1,6 +1,7 @@
-package br.com.bytebank.banco.teste;
+package br.com.bytebank.banco.test;
 
-import br.com.bytebank.banco.teste.*;
+import br.com.bytebank.banco.modelo.Conta;
+import br.com.bytebank.banco.modelo.ContaCorrente;
 
 //Full Qualifie Name => FQN
 //O verdadeiro nome qui da classe seria "modelo.TestaSaca"
