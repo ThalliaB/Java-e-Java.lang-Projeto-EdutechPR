@@ -2,6 +2,13 @@ package br.com.bytebank.banco.modelo;
 
 import br.com.bytebank.banco.modelo.*;
 
+/**
+ * Classe que representa um cliente no Bytebank.
+ * 
+ * @author thall
+ *
+ */
+
 public class Cliente {
 
 	private String nome;
